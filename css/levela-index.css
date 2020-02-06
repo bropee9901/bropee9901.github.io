@@ -1,0 +1,94 @@
+/* CSS Document */
+
+.a1 A:hover {
+	text-decoration: none; 
+	background-color: #FFCCCC; 
+	layer-background-color: #FFCCCC;
+}
+.a2 A:hover {
+	text-decoration: none; 
+	background-color: #CCFFFF; 
+	layer-background-color: #CCFFFF;
+}
+.a3 A:hover {
+	text-decoration: none; 
+	background-color: #CCFF66; 
+	layer-background-color: #CCFF66;
+}
+.a4 A:hover {
+	text-decoration: none; 
+	background-color: #CC99FF; 
+	layer-background-color: #CC99FF;
+}
+.a5 A:hover {
+	text-decoration: none; 
+	background-color: #FFCC66; 
+	layer-background-color: #FFCC66;
+}
+.a6 A:hover {
+	background-color: #FFFFFF; 
+	color: #000000;
+}
+.digraphs {
+	font-family: "VAG Rounded Thin", Arial, sans-serif;
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFCC;
+}
+.books {  
+	font-size: 16pt; 
+	color: #990000; 
+	font-family: Arial, Helvetica, sans-serif
+}
+.returntoindex {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.bignumber {  
+	font-size: 24pt; 
+	font-weight: bold;
+	color: #990000; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+.columnheadline {
+	font-size: 14pt;
+	font-weight: bold;
+	color: #FFFF99;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.help {  
+	font-size: 10pt; 
+	font-weight: bold;  
+	color: #006600; 
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.helpTitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #99CC33;
+}
+.mam {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* common to footer.css, N-directions.css, N-info.css */
+
+.smallprint {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.topnav {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.botnav {
+	font-family: "Trebuchet MS", Verdana, Tahoma, Arial;
+}
